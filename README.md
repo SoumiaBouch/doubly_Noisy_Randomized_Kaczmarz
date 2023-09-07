@@ -1,9 +1,9 @@
 <h1>Noisy Randomized Kaczmarz<h1>
 
-This Github repository is the official implementation of the numerical experiments presented in the paper _A Note on Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems_
+This GitHub repository is the official implementation of the numerical experiments presented in the paper _"A Note on Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems"_
 
 ## Requirements
-We conducted the experiments using python 3.8.5 and numpy 1.19.2. To run the experiments, you can create a jupyter notebook and simply insert the commands listed in each section.
+We conducted the experiments using python 3.8.5, numpy 1.19.2, and scipy 1.8.0 To run the experiments, you can create a Jupyter notebook and simply insert the commands listed in each section.
 
 ## Additive noise
 To run the experiment use the following command:
