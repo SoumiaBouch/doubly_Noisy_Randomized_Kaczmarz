@@ -1,4 +1,5 @@
 <h1> Doubly Noisy Randomized Kaczmarz <h1>
+    
 #### This GitHub repository is the official implementation of the numerical experiments presented in the paper _"A Note on Randomized Kaczmarz Algorithm for Solving Doubly-Noisy Linear Systems"_ 
 
 ## Requirements
